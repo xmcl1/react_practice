@@ -1,0 +1,25 @@
+.registerBox{
+    width:300px;
+    height:200px;
+    background:white;
+    border:20px solid #E7EAED;
+    display:flex;
+    position:relative;
+}
+.registerInnerBox{
+    /* text-align:center; */
+    margin:auto;
+}
+.userN{
+    margin-bottom:10px;    
+}
+.register_login_botton{
+    margin-top:20px;
+    padding-left:65px;
+}
+.loginButton{
+    margin-right:25px;
+}
+.msg{
+    position:absolute;
+}
